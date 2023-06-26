@@ -5,7 +5,7 @@
     "description": "OpenICDD API",
     "termsOfService": "https://icdd.vm.rub.de/ui/Page/Contact",
     "contact": {
-      "name": "icdd-plattform@ruhr-uni-bochum.de",
+      "name": "Philipp Hagedorn (icdd-plattform@ruhr-uni-bochum.de)",
       "url": "https://www.inf.bi.ruhr-uni-bochum.de/",
       "email": "icdd-plattform@ruhr-uni-bochum.de"
     },
@@ -17,28 +17,7 @@
   },
   "servers": [
     {
-      "url": "http://localhost:44357/dev01/"
-    },
-    {
-      "url": "https://icdd.vm.rub.de/dev01/"
-    },
-    {
-      "url": "https://icdd.vm.rub.de/dev01/"
-    },
-    {
       "url": "https://icdd.vm.rub.de/ui/"
-    },
-    {
-      "url": "https://icdd.vm.rub.de/amsfree/"
-    },
-    {
-      "url": "https://icdd.vm.rub.de/bim4ams/"
-    },
-    {
-      "url": "https://icdd.vm.rub.de/bridgeinspect/"
-    },
-    {
-      "url": "https://icdd.vm.rub.de/advancedbim/"
     }
   ],
   "paths": {
