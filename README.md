@@ -1,5 +1,7 @@
 # OpenICDD API ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
 
+[![DOI](https://zenodo.org/badge/658948354.svg)](https://zenodo.org/badge/latestdoi/658948354)
+
 https://philhag.github.io/open-icdd/
 
 
